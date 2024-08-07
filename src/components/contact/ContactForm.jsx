@@ -19,7 +19,7 @@ function ContactForm() {
         <div className="row">
           <div className="col-12">
             <div className="contact-from-wrapper">
-              <form>
+              {/* <form>
                 <div className="row">
                   <div className="col-lg-6">
                     <div className="form-inner">
@@ -55,7 +55,16 @@ function ContactForm() {
                     </button>
                   </div>
                 </div>
-              </form>
+              </form>  */}
+              <iframe
+                src="https://share.hsforms.com/1z7kXa4qtTvuiV9TvVeKvGwqtqks"
+                width="100%"
+                height="600px"
+                frameBorder="0"
+                scrolling="no"
+                title="Contact Form"
+                style={{ border: "none" }}
+              ></iframe>
             </div>
           </div>
         </div>

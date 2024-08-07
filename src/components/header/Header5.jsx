@@ -117,7 +117,7 @@ function Header5() {
             </div>
             <ul className="menu-list">
               <li className="menu-item-has-children">
-                <Link href="#">
+                <Link href="/">
                   <a className={
                       currentRoute === "/index-wildlife"? "drop-down active"
                         : "drop-down disabled"
@@ -158,7 +158,7 @@ function Header5() {
                 </Link> 
               </li>
               <li className="menu-item-has-children">
-                <Link href="safari-section">
+                <Link href="#safari-section">
                   <a
                     className={
                       currentRoute === "/destination" ||
@@ -172,7 +172,7 @@ function Header5() {
                 </Link> 
               </li>   
               <li>
-                <Link href="/contact">
+                <Link href="#contact">
                   <a
                     className={
                       currentRoute === "/contact" ? "active" : "disabled"

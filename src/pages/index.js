@@ -13,7 +13,9 @@ import Footer1 from "../components/footer/Footer1";
 import Header5 from "../components/header/Header5";
 import Home5Package from "../components/package/Home5Package";
 import Home5Partnar from "../components/sponsor/Home5Partnar";
-import Home5Testimonial from "../components/testimonial/Home5Testimonial";
+import Home5Testimonial from "../components/testimonial/Home5Testimonial"; 
+import ContactForm from "../components/contact/ContactForm";
+import InfoSection from "../components/contact/InfoSection";
 
 function IndexWildlife() {
   const [loading, setLoading] = useState(false);
@@ -53,6 +55,8 @@ function IndexWildlife() {
           {/* <Home5Feature />
           <Home5Destination />
           <Home5Blog /> */}
+          <InfoSection />
+          <ContactForm />
           <InstagramFeed type="wildInstagram" />
           <Footer1 />
         </>

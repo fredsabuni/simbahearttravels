@@ -2,7 +2,7 @@ import React from "react";
 
 function InfoSection() {
   return (
-    <div className="info-section pt-120 pb-120">
+    <div className="info-section pt-120 pb-120" id="contact">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-7 col-md-10 col-sm-12">
