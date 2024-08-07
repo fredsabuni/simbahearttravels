@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/bg/deal11.png",
+    "image2": "assets/images/bg/offer-bg1.png",
+    "standardImg": "assets/images/bg/tour-standard1.png",
+    "offerPercentage": "20",
+    "rateing": 10,
+    "title": "Aegean Adventure",
+    "title2": "Epcot Center Drive, Orlando",
+    "regularPrice": 480,
+    "offerPrice": 290,
+    "time": "03"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/bg/deal12.png",
+    "image2": "assets/images/bg/offer-bg2.png",
+    "standardImg": "assets/images/bg/tour-standard2.png",
+    "offerPercentage": "25",
+    "rateing": 12,
+    "title": "Tours Ethiopia!",
+    "title2": "Epcot Center Drive, Orlando",
+    "regularPrice": 850,
+    "offerPrice": 499,
+    "time": "04"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/bg/deal13.png",
+    "image2": "assets/images/bg/offer-bg3.png",
+    "standardImg": "assets/images/bg/tour-standard3.png",
+    "offerPercentage": "30",
+    "rateing": 30,
+    "title": "Aegean Beach",
+    "title2": "Antelope cany Arizona US of America",
+    "regularPrice": 850,
+    "offerPrice": 499,
+    "time": "04"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/bg/deal14.png",
+    "standardImg": "assets/images/bg/tour-standard4.png",
+    "offerPercentage": "50",
+    "rateing": 8,
+    "title": "South America",
+    "regularPrice": 1099,
+    "offerPrice": 549
+  },
+  {
+    "id": 5,
+    "image": "assets/images/bg/deal15.png",
+    "standardImg": "assets/images/bg/tour-standard5.png",
+    "offerPercentage": "10",
+    "rateing": 15,
+    "title": "Amazon Forest Tour",
+    "regularPrice": 1099,
+    "offerPrice": 949
+  },
+  {
+    "id": 6,
+    "image": "assets/images/bg/deal16.png",
+    "standardImg": "assets/images/bg/tour-standard6.png",
+    "offerPercentage": "18",
+    "rateing": 15,
+    "title": "South America Tours",
+    "regularPrice": 1099,
+    "offerPrice": 949
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/bg/best-plan21.png",
+    "regularPrice": 200,
+    "title": "Bangkok & Krabi Even Bette",
+    "date": "2 days 3 night",
+    "rating": "4.8",
+    "review": "150"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/bg/best-plan22.png",
+    "regularPrice": 300,
+    "title": "Caribbean Cooking Experien",
+    "date": "2 days 3 night",
+    "rating": "5.0",
+    "review": "50"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/bg/best-plan23.png",
+    "regularPrice": 350,
+    "title": "This Year Amazing Bangkok",
+    "date": "1 days 2 night",
+    "rating": "4.0",
+    "review": "55"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/bg/best-plan24.png",
+    "regularPrice": 320,
+    "title": "The City Of Taj Mahal, India",
+    "date": "1 days 2 night",
+    "rating": "5.0",
+    "review": "125"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/bg/best-plan25.png",
+    "regularPrice": 750,
+    "title": "Pyramids of Giza, Egypt",
+    "date": "2 days 2 night",
+    "rating": "4.7",
+    "review": "555"
+  },
+  {
+    "id": 6,
+    "image": "assets/images/bg/best-plan26.png",
+    "regularPrice": 310,
+    "title": "The Colosseum, Rome",
+    "date": "1 days 2 night",
+    "rating": "4.9",
+    "review": "5"
+  }
+]

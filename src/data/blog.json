@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "blogtitle":"The Social Art of Zaha Hadid, Architecture’s Engaging Presence",
+        "date":"February 8, 2022",
+        "image":"assets/images/blog/blog-grid1.png",
+        "category":"Travel / Style"
+    }
+    ,
+    {
+        "id":2,
+        "blogtitle":"Li River, China’s Orignial Postcard Landcaspe",
+        "date":"February 8, 2022",
+        "image":"assets/images/blog/blog-grid2.png",
+        "category":"City Travel"  
+    }
+    ,
+    {
+        "id":3,
+        "blogtitle":"Jungles In Paris Vermont’s Rugged, Retro Ski Mountain",
+        "date":"February 5, 2022",
+        "image":"assets/images/blog/blog-grid3.png",
+        "category":"Travel / Style"  
+    }
+    ,
+    {
+        "id":4,
+        "blogtitle":"If I visit your country, what’s the one meal I shouldn’t miss?",
+        "date":"February 2, 2022",
+        "image":"assets/images/blog/blog-grid4.png",
+        "category":"Hiking, Tour"  
+    }
+    ,
+    {
+        "id":5,
+        "blogtitle":"What are some of the best travel locations that most people?",
+        "date":"February 1, 2022",
+        "image":"assets/images/blog/blog-grid5.png",
+        "category":"Camping, Travels"  
+    }
+    ,
+    {
+        "id":6,
+        "blogtitle":"What’s it like to quit your job, grab a backpack, and travel the world?",
+        "date":"February 10, 2022",
+        "image":"assets/images/blog/blog-grid6.png",
+        "category":"Travel / Style"  
+    }
+]

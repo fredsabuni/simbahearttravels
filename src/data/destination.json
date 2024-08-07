@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/bg/destnation11.png",
+    "destination": "Wiesbaden Sea",
+    "numberOfPlace": 40
+  },
+  {
+    "id": 2,
+    "image": "assets/images/bg/destnation12.png",
+    "destination": "California City",
+    "numberOfPlace": 20
+  },
+  {
+    "id": 3,
+    "image": "assets/images/bg/destnation13.png",
+    "destination": "Grand Switzerland",
+    "numberOfPlace": 50
+  },
+  {
+    "id": 4,
+    "image": "assets/images/bg/destnation14.png",
+    "destination": "Beauty of France",
+    "numberOfPlace": 30
+  },
+  {
+    "id": 5,
+    "image": "assets/images/bg/destnation15.png",
+    "destination": "Beauty of France",
+    "numberOfPlace": 30
+  },
+  {
+    "id": 6,
+    "image": "assets/images/bg/destnation16.png",
+    "destination": "Plitvice, Croatia",
+    "numberOfPlace": 30
+  },
+  {
+    "id": 7,
+    "image": "assets/images/bg/destnation17.png",
+    "destination": "Kathmandu Nepal",
+    "numberOfPlace": 30
+  },
+  {
+    "id": 8,
+    "image": "assets/images/bg/destnation18.png",
+    "destination": "Kualalumpur",
+    "numberOfPlace": 30
+  },
+  {
+    "id": 9,
+    "image": "assets/images/bg/destnation19.png",
+    "destination": "Pyramids, Egypt",
+    "numberOfPlace": 30
+  }
+]

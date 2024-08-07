@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "home",
+    "parent_id": "0"
+  },
+  {
+    "id": 1,
+    "name": "home 1",
+    "parent_id": "1"
+  },
+  {
+    "id": 3,
+    "name": "home 2",
+    "parent_id": "1"
+  },
+  {
+    "id": 4,
+    "name": "desination",
+    "parent_id": "2"
+  },
+  {
+    "id": 5,
+    "name": "destination",
+    "parent_id": "2"
+  },
+  {
+    "id": 6,
+    "name": "submenu",
+    "parent_id": "3"
+  },
+  {
+    "id": 6,
+    "name": "home4",
+    "parent_id": "1"
+  }
+]

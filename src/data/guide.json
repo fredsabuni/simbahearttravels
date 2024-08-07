@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/bg/guide1.png",
+    "title": "Guide",
+    "guideName": "Savannah Nguyen"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/bg/guide2.png",
+    "title": "Guide",
+    "guideName": "Leslie Alexander"
+  },
+
+  {
+    "id": 3,
+    "image": "assets/images/bg/guide3.png",
+    "title": "Guide",
+    "guideName": "Guy Hawkins"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/bg/guide4.png",
+    "title": "Guide",
+    "guideName": "Ralph Edwards"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/bg/guide5.png",
+    "title": "Guide",
+    "guideName": "Kristin Watson"
+  },
+  {
+    "id": 6,
+    "image": "assets/images/bg/guide6.png",
+    "title": "Guide",
+    "guideName": "Kristin Watsonn"
+  }
+]
