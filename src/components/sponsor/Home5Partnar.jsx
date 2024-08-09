@@ -49,7 +49,7 @@ function Home5Partnar() {
           <img src="assets/images/icons/sec-title-vector3.svg" alt="image" />
           <span>PARTNERS</span>
           <h2>People <span>Trust Us !</span></h2>
-          <p>The Wildlife conservation is long term commitment and journey that requires the cooperation of everyone in the community.</p>
+          <p>Unmatched expertise and personalized service you can rely on. We deliver unforgettable travel experiences every time, tailored just for you.</p>
         </div>
       </div>
     </div>

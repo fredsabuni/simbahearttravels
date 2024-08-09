@@ -61,7 +61,7 @@ function Header5() {
   };
   return (
     <header className="header-area style-5">
-    <div className="sidebar-icon"><img src="assets/images/icons/sidebar-icon2.svg" alt="image" /></div>
+    <div className="sidebar-icon"><img className="logo-resize-mobile" src="assets/images/icons/simba-logo.svg" alt="image" /></div>
     <div className="nav-right d-flex jsutify-content-end align-items-center gap-5">
       <div className="phone-call sibling3 justify-content-start align-items-center flex-row d-xl-flex d-none">
         <div className="icon">

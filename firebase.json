@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/Users/fredmalack/Documents/Projects/Applications/SimbaHeartTravels/out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
