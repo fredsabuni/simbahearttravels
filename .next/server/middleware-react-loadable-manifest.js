@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={"_app.js -> ../../public/assets/js/bootstrap.bundle.min":{"id":"_app.js -> ../../public/assets/js/bootstrap.bundle.min","files":["static/chunks/public_assets_js_bootstrap_bundle_min_js.js"]}}
+self.__REACT_LOADABLE_MANIFEST={"_app.js -> ../../public/assets/js/bootstrap.bundle.min":{id:450,files:["static/chunks/450.2b3638b493bf513f.js"]}};
